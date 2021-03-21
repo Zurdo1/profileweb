@@ -13,7 +13,7 @@ background: linear-gradient(to bottom, #434343, #000000); /* W3C, IE 10+/ Edge, 
     box-sizing: border-box;
 }
 
-@media only screen and (min-width: 316px) {
+@media only screen and (min-width: 280px) {
 
      .toggle {
          position: fixed;
